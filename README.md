@@ -20,19 +20,6 @@
 - 🌱 **حالياً أتعلم**: JavaScript
 
 ---
-
-### 📊 إحصائياتي على GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallahsy&show_icons=true&theme=radical" alt="إحصائيات عبدالله على GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallahsy&layout=compact&theme=radical" alt="أكثر اللغات استخداماً" />
-</p>
-
----
-
 ### ✨ نبذة شخصية
 
 > "أحبّ البرمجة لأنها تمكنني من تحويل الأفكار إلى واقع، وأسعى دائماً لمشاركة ما أتعلمه مع الآخرين."
